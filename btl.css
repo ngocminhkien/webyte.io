@@ -1,0 +1,128 @@
+
+.ll{
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(30, 33, 173);
+}
+.box{
+    width: 100%;
+    height: auto;
+    background-color: rgb(221, 166, 166);
+    display: flex;
+}
+.box img{
+    width: 30%;
+    height: 500px;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+.box  .vb1{
+    font-size:45px;
+        color: black;
+        font-weight: bold;
+}
+.box .vb2{
+    color: white;
+    font-size: 30px;
+}
+.box .content{
+    padding: 150px;
+}
+
+.box1{
+    text-align: center;
+}
+.box1 .teude{
+    font-size: 30px;
+}
+.box1 .vntieude{
+    font-size: 20px;
+}
+.box1 .bang .anh{
+    width: 445px;
+    height: 300px;   
+margin: 2px;
+margin-left: 10px;
+margin-top: 10px;
+border-radius: 40px 40px 40px 40px;
+}
+.box1 .bang .vb{
+    font-size: 20px;
+}
+
+.box2{
+    width: 100%;
+    height: auto;
+    display: flex;
+background-color: rgb(70, 60, 60);
+}
+.box2 img{
+    width: 30%;
+    height: 95%;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.box2 .content{
+    padding: 150px;
+}
+.nn .vn2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.box2 .tt p{
+    font-size: 20px;
+    color: white;
+}
+.box2{
+    width: 100%;
+    height: auto;
+}
+.box2 .tt .v1{
+    font-size: 25px;
+    margin-left: 20%;
+}
+.box2 .tt .v3{
+        font-size: 25px;
+        margin-left: 20%;
+}
+.box2 .tt .v2{
+            font-size: 25px;
+            margin-left: 20%;
+}
+.nut .button{
+background-color: rgb(160, 125, 226);
+color: white;
+border: none;
+border-radius: 50px;
+margin-left: 48%;
+font-size: 25px;
+padding: 10px;
+margin-top: 40px;
+}
+
+.contact-form {
+    width: 300px;
+    margin: 0 auto;
+}
+.contact-form input, .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
+.contact-form button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+}
+.section{
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.ss2{text-align: center;}
